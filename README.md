@@ -1,4 +1,4 @@
-## 🏥 Healthcare Accessibility Prediction
+##  Healthcare Accessibility Prediction
 
 This project explores how improved **access to healthcare** can significantly reduce **death cases** in Nigeria. Through data analysis, visualization, and predictive modeling, we highlight the potential impact of our proposed healthcare-access mobile application.
 
@@ -10,7 +10,7 @@ The goal is to **predict the reduction in death cases** that could result from i
 
 ---
 
-## 🧪 Tools & Technologies
+##  Tools & Technologies
 
 * **Excel** – for data gathering and initial preprocessing
 * **Jupyter Notebook** – for data cleaning, exploration, and predictive analysis
@@ -76,16 +76,6 @@ To run or contribute to this project, you’ll need:
 * Power BI Desktop
 * Python (with libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`)
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork this repository
-2. Create your feature branch
-3. Commit your changes
-4. Open a pull request
 
 ---
 
@@ -93,6 +83,3 @@ Contributions are welcome!
 
 This project is licensed under the [MIT License](LICENSE)
 
-Contributing: Contributions are welcome! Please fork the repository and submit a pull request.
-
-License: This project is licensed under the MIT License.
